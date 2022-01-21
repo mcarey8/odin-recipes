@@ -1,2 +1,2 @@
 # odin
-odin work
+odin recipe
